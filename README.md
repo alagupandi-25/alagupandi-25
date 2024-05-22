@@ -16,6 +16,3 @@
 
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=Alagupand-25&icon=0&color=0)](https://visitcount.itsvg.in)
