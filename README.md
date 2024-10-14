@@ -7,8 +7,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alagupandi-25) 
 
-## 💻 Competitive Programming :
-![](https://leetcard.jacoblin.cool/alagupandi-25?ext=activity)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alagupandi-25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alagupandi-25&theme=dark&hide_border=false)<br/><br/>
